@@ -1,0 +1,343 @@
+g1_i1.png   ../yoga_images_origin/bitilasana/60-1.png
+g1_i2.png   ../yoga_images_origin/bitilasana/61-0.png
+g1_i3.png   ../yoga_images_origin/bitilasana/45-0.png
+g2_i1.png   ../yoga_images_origin/bitilasana/71-0.png
+g2_i2.png   ../yoga_images_origin/bitilasana/86-0.png
+g2_i3.png   ../yoga_images_origin/bitilasana/35-0.png
+g3_i1.png   ../yoga_images_origin/bitilasana/58-1.png
+g3_i2.png   ../yoga_images_origin/bitilasana/66-0.png
+g3_i3.png   ../yoga_images_origin/bitilasana/31-0.png
+g4_i1.png   ../yoga_images_origin/bitilasana/37-0.png
+g4_i2.png   ../yoga_images_origin/bitilasana/48-0.png
+g4_i3.png   ../yoga_images_origin/bitilasana/17-0.png
+g5_i1.png   ../yoga_images_origin/bitilasana/34-0.png
+g5_i2.png   ../yoga_images_origin/bitilasana/5-0.png
+g5_i3.png   ../yoga_images_origin/bitilasana/33-0.png
+g6_i1.png   ../yoga_images_origin/bitilasana/39-0.png
+g6_i2.png   ../yoga_images_origin/bitilasana/68-0.png
+g6_i3.png   ../yoga_images_origin/bitilasana/96-0.png
+g7_i1.png   ../yoga_images_origin/bitilasana/26-0.png
+g7_i2.png   ../yoga_images_origin/bitilasana/63-1.png
+g7_i3.png   ../yoga_images_origin/bitilasana/36-0.png
+g8_i1.png   ../yoga_images_origin/bitilasana/30-0.png
+g8_i2.png   ../yoga_images_origin/bitilasana/46-0.png
+g8_i3.png   ../yoga_images_origin/bitilasana/10-0.png
+g9_i1.png   ../yoga_images_origin/bitilasana/29-0.png
+g9_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g9_i3.png   ../yoga_images_origin/bitilasana/54-0.png
+g10_i1.png   ../yoga_images_origin/bitilasana/11-0.png
+g10_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g10_i3.png   ../yoga_images_origin/bitilasana/43-0.png
+g11_i1.png   ../yoga_images_origin/bitilasana/94-1.png
+g11_i2.png   ../yoga_images_origin/bitilasana/52-0.png
+g11_i3.png   ../yoga_images_origin/bitilasana/32-0.png
+g12_i1.png   ../yoga_images_origin/bitilasana/3-1.png
+g12_i2.png   ../yoga_images_origin/bitilasana/60-0.png
+g12_i3.png   ../yoga_images_origin/bitilasana/24-0.png
+g13_i1.png   ../yoga_images_origin/bitilasana/89-0.png
+g13_i2.png   ../yoga_images_origin/bitilasana/15-0.png
+g13_i3.png   ../yoga_images_origin/bitilasana/3-0.png
+g14_i1.png   ../yoga_images_origin/bitilasana/74-0.png
+g14_i2.png   ../yoga_images_origin/bitilasana/84-0.png
+g14_i3.png   ../yoga_images_origin/bitilasana/49-0.png
+g15_i1.png   ../yoga_images_origin/bitilasana/27-0.png
+g15_i2.png   ../yoga_images_origin/bitilasana/62-0.png
+g15_i3.png   ../yoga_images_origin/bitilasana/10-1.png
+g16_i1.png   ../yoga_images_origin/bitilasana/67-0.png
+g16_i2.png   ../yoga_images_origin/bitilasana/34-1.png
+g16_i3.png   ../yoga_images_origin/bitilasana/18-0.png
+g17_i1.png   ../yoga_images_origin/bitilasana/14-0.png
+g17_i2.png   ../yoga_images_origin/bitilasana/2-1.png
+g17_i3.png   ../yoga_images_origin/bitilasana/65-0.png
+g18_i1.png   ../yoga_images_origin/bitilasana/93-1.png
+g18_i2.png   ../yoga_images_origin/bitilasana/88-1.png
+g18_i3.png   ../yoga_images_origin/bitilasana/69-1.png
+g19_i1.png   ../yoga_images_origin/bitilasana/92-0.png
+g19_i2.png   ../yoga_images_origin/bitilasana/63-0.png
+g19_i3.png   ../yoga_images_origin/bitilasana/55-0.png
+g20_i1.png   ../yoga_images_origin/bitilasana/40-0.png
+g20_i2.png   ../yoga_images_origin/bitilasana/93-0.png
+g20_i3.png   ../yoga_images_origin/bitilasana/38-0.png
+g21_i1.png   ../yoga_images_origin/bitilasana/50-0.png
+g21_i2.png   ../yoga_images_origin/bitilasana/95-0.png
+g21_i3.png   ../yoga_images_origin/bitilasana/55-1.png
+g22_i1.png   ../yoga_images_origin/bitilasana/78-0.png
+g22_i2.png   ../yoga_images_origin/bitilasana/84-1.png
+g22_i3.png   ../yoga_images_origin/bitilasana/0-0.png
+g23_i1.png   ../yoga_images_origin/bitilasana/94-0.png
+g23_i2.png   ../yoga_images_origin/bitilasana/19-0.png
+g23_i3.png   ../yoga_images_origin/bitilasana/25-0.png
+g24_i1.png   ../yoga_images_origin/bitilasana/8-0.png
+g24_i2.png   ../yoga_images_origin/bitilasana/12-0.png
+g24_i3.png   ../yoga_images_origin/bitilasana/6-0.png
+g25_i1.png   ../yoga_images_origin/bitilasana/2-0.png
+g25_i2.png   ../yoga_images_origin/bitilasana/28-0.png
+g25_i3.png   ../yoga_images_origin/bitilasana/41-0.png
+g26_i1.png   ../yoga_images_origin/bitilasana/72-0.png
+g26_i2.png   ../yoga_images_origin/bitilasana/77-0.png
+g26_i3.png   ../yoga_images_origin/bitilasana/83-0.png
+g27_i1.png   ../yoga_images_origin/bitilasana/59-0.png
+g27_i2.png   ../yoga_images_origin/bitilasana/16-0.png
+g27_i3.png   ../yoga_images_origin/bitilasana/71-1.png
+g28_i1.png   ../yoga_images_origin/bitilasana/53-0.png
+g28_i2.png   ../yoga_images_origin/bitilasana/20-0.png
+g28_i3.png   ../yoga_images_origin/bitilasana/51-0.png
+g29_i1.png   ../yoga_images_origin/bitilasana/58-0.png
+g29_i2.png   ../yoga_images_origin/bitilasana/42-0.png
+g29_i3.png   ../yoga_images_origin/bitilasana/69-0.png
+g30_i1.png   ../yoga_images_origin/bitilasana/86-0.png
+g30_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g30_i3.png   ../yoga_images_origin/bitilasana/70-0.png
+g31_i1.png   ../yoga_images_origin/bitilasana/61-0.png
+g31_i2.png   ../yoga_images_origin/bitilasana/28-0.png
+g31_i3.png   ../yoga_images_origin/bitilasana/16-0.png
+g32_i1.png   ../yoga_images_origin/bitilasana/27-0.png
+g32_i2.png   ../yoga_images_origin/bitilasana/50-0.png
+g32_i3.png   ../yoga_images_origin/bitilasana/8-0.png
+g33_i1.png   ../yoga_images_origin/bitilasana/7-0.png
+g33_i2.png   ../yoga_images_origin/bitilasana/34-1.png
+g33_i3.png   ../yoga_images_origin/bitilasana/93-0.png
+g34_i1.png   ../yoga_images_origin/bitilasana/46-0.png
+g34_i2.png   ../yoga_images_origin/bitilasana/52-0.png
+g34_i3.png   ../yoga_images_origin/bitilasana/63-0.png
+g35_i1.png   ../yoga_images_origin/bitilasana/71-0.png
+g35_i2.png   ../yoga_images_origin/bitilasana/58-1.png
+g35_i3.png   ../yoga_images_origin/bitilasana/3-1.png
+g36_i1.png   ../yoga_images_origin/bitilasana/67-0.png
+g36_i2.png   ../yoga_images_origin/bitilasana/92-0.png
+g36_i3.png   ../yoga_images_origin/bitilasana/94-0.png
+g37_i1.png   ../yoga_images_origin/bitilasana/86-0.png
+g37_i2.png   ../yoga_images_origin/bitilasana/63-1.png
+g37_i3.png   ../yoga_images_origin/bitilasana/63-0.png
+g38_i1.png   ../yoga_images_origin/bitilasana/46-0.png
+g38_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g38_i3.png   ../yoga_images_origin/bitilasana/15-0.png
+g39_i1.png   ../yoga_images_origin/bitilasana/52-0.png
+g39_i2.png   ../yoga_images_origin/bitilasana/95-0.png
+g39_i3.png   ../yoga_images_origin/bitilasana/19-0.png
+g40_i1.png   ../yoga_images_origin/bitilasana/94-1.png
+g40_i2.png   ../yoga_images_origin/bitilasana/8-0.png
+g40_i3.png   ../yoga_images_origin/bitilasana/59-0.png
+g41_i1.png   ../yoga_images_origin/bitilasana/65-0.png
+g41_i2.png   ../yoga_images_origin/bitilasana/0-0.png
+g41_i3.png   ../yoga_images_origin/bitilasana/25-0.png
+g42_i1.png   ../yoga_images_origin/bitilasana/96-0.png
+g42_i2.png   ../yoga_images_origin/bitilasana/32-0.png
+g42_i3.png   ../yoga_images_origin/bitilasana/83-0.png
+g43_i1.png   ../yoga_images_origin/bitilasana/66-0.png
+g43_i2.png   ../yoga_images_origin/bitilasana/5-0.png
+g43_i3.png   ../yoga_images_origin/bitilasana/84-1.png
+g44_i1.png   ../yoga_images_origin/bitilasana/55-1.png
+g44_i2.png   ../yoga_images_origin/bitilasana/41-0.png
+g44_i3.png   ../yoga_images_origin/bitilasana/69-0.png
+g45_i1.png   ../yoga_images_origin/bitilasana/86-0.png
+g45_i2.png   ../yoga_images_origin/bitilasana/60-0.png
+g45_i3.png   ../yoga_images_origin/bitilasana/84-1.png
+g46_i1.png   ../yoga_images_origin/bitilasana/39-0.png
+g46_i2.png   ../yoga_images_origin/bitilasana/67-0.png
+g46_i3.png   ../yoga_images_origin/bitilasana/92-0.png
+g47_i1.png   ../yoga_images_origin/bitilasana/96-0.png
+g47_i2.png   ../yoga_images_origin/bitilasana/32-0.png
+g47_i3.png   ../yoga_images_origin/bitilasana/55-0.png
+g48_i1.png   ../yoga_images_origin/bitilasana/60-0.png
+g48_i2.png   ../yoga_images_origin/bitilasana/2-1.png
+g48_i3.png   ../yoga_images_origin/bitilasana/12-0.png
+g49_i1.png   ../yoga_images_origin/bitilasana/74-0.png
+g49_i2.png   ../yoga_images_origin/bitilasana/67-0.png
+g49_i3.png   ../yoga_images_origin/bitilasana/2-0.png
+g50_i1.png   ../yoga_images_origin/bitilasana/29-0.png
+g50_i2.png   ../yoga_images_origin/bitilasana/40-0.png
+g50_i3.png   ../yoga_images_origin/bitilasana/2-0.png
+g51_i1.png   ../yoga_images_origin/bitilasana/17-0.png
+g51_i2.png   ../yoga_images_origin/bitilasana/18-0.png
+g51_i3.png   ../yoga_images_origin/bitilasana/83-0.png
+g52_i1.png   ../yoga_images_origin/bitilasana/68-0.png
+g52_i2.png   ../yoga_images_origin/bitilasana/63-1.png
+g52_i3.png   ../yoga_images_origin/bitilasana/63-0.png
+g53_i1.png   ../yoga_images_origin/bitilasana/39-0.png
+g53_i2.png   ../yoga_images_origin/bitilasana/26-0.png
+g53_i3.png   ../yoga_images_origin/bitilasana/50-0.png
+g54_i1.png   ../yoga_images_origin/bitilasana/27-0.png
+g54_i2.png   ../yoga_images_origin/bitilasana/78-0.png
+g54_i3.png   ../yoga_images_origin/bitilasana/8-0.png
+g55_i1.png   ../yoga_images_origin/bitilasana/48-0.png
+g55_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g55_i3.png   ../yoga_images_origin/bitilasana/20-0.png
+g56_i1.png   ../yoga_images_origin/bitilasana/68-0.png
+g56_i2.png   ../yoga_images_origin/bitilasana/60-0.png
+g56_i3.png   ../yoga_images_origin/bitilasana/84-0.png
+g57_i1.png   ../yoga_images_origin/bitilasana/27-0.png
+g57_i2.png   ../yoga_images_origin/bitilasana/67-0.png
+g57_i3.png   ../yoga_images_origin/bitilasana/50-0.png
+g58_i1.png   ../yoga_images_origin/bitilasana/69-1.png
+g58_i2.png   ../yoga_images_origin/bitilasana/38-0.png
+g58_i3.png   ../yoga_images_origin/bitilasana/55-1.png
+g59_i1.png   ../yoga_images_origin/bitilasana/35-0.png
+g59_i2.png   ../yoga_images_origin/bitilasana/17-0.png
+g59_i3.png   ../yoga_images_origin/bitilasana/65-0.png
+g60_i1.png   ../yoga_images_origin/bitilasana/29-0.png
+g60_i2.png   ../yoga_images_origin/bitilasana/27-0.png
+g60_i3.png   ../yoga_images_origin/bitilasana/40-0.png
+g61_i1.png   ../yoga_images_origin/bitilasana/71-0.png
+g61_i2.png   ../yoga_images_origin/bitilasana/50-0.png
+g61_i3.png   ../yoga_images_origin/bitilasana/94-0.png
+g62_i1.png   ../yoga_images_origin/bitilasana/61-0.png
+g62_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g62_i3.png   ../yoga_images_origin/bitilasana/12-0.png
+g63_i1.png   ../yoga_images_origin/bitilasana/24-0.png
+g63_i2.png   ../yoga_images_origin/bitilasana/41-0.png
+g63_i3.png   ../yoga_images_origin/bitilasana/71-1.png
+g64_i1.png   ../yoga_images_origin/bitilasana/31-0.png
+g64_i2.png   ../yoga_images_origin/bitilasana/83-0.png
+g64_i3.png   ../yoga_images_origin/bitilasana/69-0.png
+g65_i1.png   ../yoga_images_origin/bitilasana/33-0.png
+g65_i2.png   ../yoga_images_origin/bitilasana/24-0.png
+g65_i3.png   ../yoga_images_origin/bitilasana/55-1.png
+g66_i1.png   ../yoga_images_origin/bitilasana/37-0.png
+g66_i2.png   ../yoga_images_origin/bitilasana/59-0.png
+g66_i3.png   ../yoga_images_origin/bitilasana/58-0.png
+g67_i1.png   ../yoga_images_origin/bitilasana/49-0.png
+g67_i2.png   ../yoga_images_origin/bitilasana/18-0.png
+g67_i3.png   ../yoga_images_origin/bitilasana/51-0.png
+g68_i1.png   ../yoga_images_origin/bitilasana/86-0.png
+g68_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g68_i3.png   ../yoga_images_origin/bitilasana/15-0.png
+g69_i1.png   ../yoga_images_origin/bitilasana/96-0.png
+g69_i2.png   ../yoga_images_origin/bitilasana/18-0.png
+g69_i3.png   ../yoga_images_origin/bitilasana/71-1.png
+g70_i1.png   ../yoga_images_origin/bitilasana/63-1.png
+g70_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g70_i3.png   ../yoga_images_origin/bitilasana/52-0.png
+g71_i1.png   ../yoga_images_origin/bitilasana/40-0.png
+g71_i2.png   ../yoga_images_origin/bitilasana/94-0.png
+g71_i3.png   ../yoga_images_origin/bitilasana/8-0.png
+g72_i1.png   ../yoga_images_origin/bitilasana/52-0.png
+g72_i2.png   ../yoga_images_origin/bitilasana/84-0.png
+g72_i3.png   ../yoga_images_origin/bitilasana/88-1.png
+g73_i1.png   ../yoga_images_origin/bitilasana/48-0.png
+g73_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g73_i3.png   ../yoga_images_origin/bitilasana/77-0.png
+g74_i1.png   ../yoga_images_origin/bitilasana/84-0.png
+g74_i2.png   ../yoga_images_origin/bitilasana/2-1.png
+g74_i3.png   ../yoga_images_origin/bitilasana/28-0.png
+g75_i1.png   ../yoga_images_origin/bitilasana/45-0.png
+g75_i2.png   ../yoga_images_origin/bitilasana/35-0.png
+g75_i3.png   ../yoga_images_origin/bitilasana/65-0.png
+g76_i1.png   ../yoga_images_origin/bitilasana/54-0.png
+g76_i2.png   ../yoga_images_origin/bitilasana/69-1.png
+g76_i3.png   ../yoga_images_origin/bitilasana/25-0.png
+g77_i1.png   ../yoga_images_origin/bitilasana/7-0.png
+g77_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g77_i3.png   ../yoga_images_origin/bitilasana/28-0.png
+g78_i1.png   ../yoga_images_origin/bitilasana/66-0.png
+g78_i2.png   ../yoga_images_origin/bitilasana/60-0.png
+g78_i3.png   ../yoga_images_origin/bitilasana/84-0.png
+g79_i1.png   ../yoga_images_origin/bitilasana/86-0.png
+g79_i2.png   ../yoga_images_origin/bitilasana/68-0.png
+g79_i3.png   ../yoga_images_origin/bitilasana/62-0.png
+g80_i1.png   ../yoga_images_origin/bitilasana/66-0.png
+g80_i2.png   ../yoga_images_origin/bitilasana/52-0.png
+g80_i3.png   ../yoga_images_origin/bitilasana/62-0.png
+g81_i1.png   ../yoga_images_origin/bitilasana/36-0.png
+g81_i2.png   ../yoga_images_origin/bitilasana/43-0.png
+g81_i3.png   ../yoga_images_origin/bitilasana/41-0.png
+g82_i1.png   ../yoga_images_origin/bitilasana/52-0.png
+g82_i2.png   ../yoga_images_origin/bitilasana/62-0.png
+g82_i3.png   ../yoga_images_origin/bitilasana/12-0.png
+g83_i1.png   ../yoga_images_origin/bitilasana/37-0.png
+g83_i2.png   ../yoga_images_origin/bitilasana/78-0.png
+g83_i3.png   ../yoga_images_origin/bitilasana/58-0.png
+g84_i1.png   ../yoga_images_origin/bitilasana/37-0.png
+g84_i2.png   ../yoga_images_origin/bitilasana/40-0.png
+g84_i3.png   ../yoga_images_origin/bitilasana/94-0.png
+g85_i1.png   ../yoga_images_origin/bitilasana/35-0.png
+g85_i2.png   ../yoga_images_origin/bitilasana/31-0.png
+g85_i3.png   ../yoga_images_origin/bitilasana/83-0.png
+g86_i1.png   ../yoga_images_origin/bitilasana/48-0.png
+g86_i2.png   ../yoga_images_origin/bitilasana/52-0.png
+g86_i3.png   ../yoga_images_origin/bitilasana/93-0.png
+g87_i1.png   ../yoga_images_origin/bitilasana/78-0.png
+g87_i2.png   ../yoga_images_origin/bitilasana/8-0.png
+g87_i3.png   ../yoga_images_origin/bitilasana/2-0.png
+g88_i1.png   ../yoga_images_origin/bitilasana/10-0.png
+g88_i2.png   ../yoga_images_origin/bitilasana/38-0.png
+g88_i3.png   ../yoga_images_origin/bitilasana/25-0.png
+g89_i1.png   ../yoga_images_origin/bitilasana/48-0.png
+g89_i2.png   ../yoga_images_origin/bitilasana/70-0.png
+g89_i3.png   ../yoga_images_origin/bitilasana/62-0.png
+g90_i1.png   ../yoga_images_origin/bitilasana/58-1.png
+g90_i2.png   ../yoga_images_origin/bitilasana/34-0.png
+g90_i3.png   ../yoga_images_origin/bitilasana/92-0.png
+g91_i1.png   ../yoga_images_origin/bitilasana/68-0.png
+g91_i2.png   ../yoga_images_origin/bitilasana/7-0.png
+g91_i3.png   ../yoga_images_origin/bitilasana/84-1.png
+g92_i1.png   ../yoga_images_origin/bitilasana/48-0.png
+g92_i2.png   ../yoga_images_origin/bitilasana/15-0.png
+g92_i3.png   ../yoga_images_origin/bitilasana/95-0.png
+g93_i1.png   ../yoga_images_origin/bitilasana/63-1.png
+g93_i2.png   ../yoga_images_origin/bitilasana/52-0.png
+g93_i3.png   ../yoga_images_origin/bitilasana/60-0.png
+g94_i1.png   ../yoga_images_origin/bitilasana/7-0.png
+g94_i2.png   ../yoga_images_origin/bitilasana/60-0.png
+g94_i3.png   ../yoga_images_origin/bitilasana/34-1.png
+g95_i1.png   ../yoga_images_origin/bitilasana/30-0.png
+g95_i2.png   ../yoga_images_origin/bitilasana/89-0.png
+g95_i3.png   ../yoga_images_origin/bitilasana/27-0.png
+g96_i1.png   ../yoga_images_origin/bitilasana/3-0.png
+g96_i2.png   ../yoga_images_origin/bitilasana/69-1.png
+g96_i3.png   ../yoga_images_origin/bitilasana/51-0.png
+g97_i1.png   ../yoga_images_origin/bitilasana/65-0.png
+g97_i2.png   ../yoga_images_origin/bitilasana/69-1.png
+g97_i3.png   ../yoga_images_origin/bitilasana/6-0.png
+g98_i1.png   ../yoga_images_origin/bitilasana/67-0.png
+g98_i2.png   ../yoga_images_origin/bitilasana/40-0.png
+g98_i3.png   ../yoga_images_origin/bitilasana/72-0.png
+g99_i1.png   ../yoga_images_origin/bitilasana/25-0.png
+g99_i2.png   ../yoga_images_origin/bitilasana/6-0.png
+g99_i3.png   ../yoga_images_origin/bitilasana/69-0.png
+g100_i1.png   ../yoga_images_origin/bitilasana/19-0.png
+g100_i2.png   ../yoga_images_origin/bitilasana/28-0.png
+g100_i3.png   ../yoga_images_origin/bitilasana/16-0.png
+2-0.png
+g87_i1.png   ../yoga_images_origin/utthita trikonasana/67-0.png
+g87_i2.png   ../yoga_images_origin/utthita trikonasana/4-0.png
+g87_i3.png   ../yoga_images_origin/utthita trikonasana/88-0.png
+g88_i1.png   ../yoga_images_origin/utthita trikonasana/67-0.png
+g88_i2.png   ../yoga_images_origin/utthita trikonasana/11-1.png
+g88_i3.png   ../yoga_images_origin/utthita trikonasana/88-0.png
+g89_i1.png   ../yoga_images_origin/utthita trikonasana/32-0.png
+g89_i2.png   ../yoga_images_origin/utthita trikonasana/27-0.png
+g89_i3.png   ../yoga_images_origin/utthita trikonasana/56-0.png
+g90_i1.png   ../yoga_images_origin/utthita trikonasana/1-0.png
+g90_i2.png   ../yoga_images_origin/utthita trikonasana/3-0.png
+g90_i3.png   ../yoga_images_origin/utthita trikonasana/66-0.png
+g91_i1.png   ../yoga_images_origin/utthita trikonasana/41-0.png
+g91_i2.png   ../yoga_images_origin/utthita trikonasana/45-0.png
+g91_i3.png   ../yoga_images_origin/utthita trikonasana/21-0.png
+g92_i1.png   ../yoga_images_origin/utthita trikonasana/41-0.png
+g92_i2.png   ../yoga_images_origin/utthita trikonasana/75-0.png
+g92_i3.png   ../yoga_images_origin/utthita trikonasana/21-0.png
+g93_i1.png   ../yoga_images_origin/utthita trikonasana/11-2.png
+g93_i2.png   ../yoga_images_origin/utthita trikonasana/38-0.png
+g93_i3.png   ../yoga_images_origin/utthita trikonasana/27-0.png
+g94_i1.png   ../yoga_images_origin/utthita trikonasana/24-0.png
+g94_i2.png   ../yoga_images_origin/utthita trikonasana/60-0.png
+g94_i3.png   ../yoga_images_origin/utthita trikonasana/11-0.png
+g95_i1.png   ../yoga_images_origin/utthita trikonasana/43-0.png
+g95_i2.png   ../yoga_images_origin/utthita trikonasana/41-0.png
+g95_i3.png   ../yoga_images_origin/utthita trikonasana/61-0.png
+g96_i1.png   ../yoga_images_origin/utthita trikonasana/37-0.png
+g96_i2.png   ../yoga_images_origin/utthita trikonasana/2-0.png
+g96_i3.png   ../yoga_images_origin/utthita trikonasana/17-0.png
+g97_i1.png   ../yoga_images_origin/utthita trikonasana/31-0.png
+g97_i2.png   ../yoga_images_origin/utthita trikonasana/14-0.png
+g97_i3.png   ../yoga_images_origin/utthita trikonasana/36-0.png
+g98_i1.png   ../yoga_images_origin/utthita trikonasana/93-0.png
+g98_i2.png   ../yoga_images_origin/utthita trikonasana/67-0.png
+g98_i3.png   ../yoga_images_origin/utthita trikonasana/0-0.png
+g99_i1.png   ../yoga_images_origin/utthita trikonasana/24-0.png
+g99_i2.png   ../yoga_images_origin/utthita trikonasana/0-0.png
+g99_i3.png   ../yoga_images_origin/utthita trikonasana/7-0.png
+g100_i1.png   ../yoga_images_origin/utthita trikonasana/48-0.png
+g100_i2.png   ../yoga_images_origin/utthita trikonasana/40-0.png
+g100_i3.png   ../yoga_images_origin/utthita trikonasana/44-0.png
