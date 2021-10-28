@@ -1,0 +1,8 @@
+backend/static/*
+frontend/dist/*
+.DS_Store
+backend/.DS_Store
+backend/__pycache__/*
+frontend/node_modules/*
+**/.DS_Store
+**/__pycache__/*
