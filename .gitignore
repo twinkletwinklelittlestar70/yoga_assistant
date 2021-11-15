@@ -1,4 +1,10 @@
-backend/static/*
+backend/static/css/*
+backend/static/img/*
+backend/static/js/*
+backend/static/favicon.ico
+backend/static/index.html
+backend/static/images/*
+backend/static/anno_images/*
 frontend/dist/*
 .DS_Store
 backend/.DS_Store

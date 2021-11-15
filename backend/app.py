@@ -1,36 +1,89 @@
-from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask import Flask, render_template, request, jsonify
+import mediapipe as mp
+import cv2
+import os
+from .utils import gen_uuid, get_ext_name, get_save_path, filepath2url, url2filepath
+from .error import InvalidAPIError
+from .api.YogaModel import yoga_pose
 
-# 通过 static_folder 指定静态资源路径，以便 index.html 能正确访问 CSS 等静态资源
-# template_folder 指定模板路径，以便 render_template 能正确渲染 index.html
-# static_url_path 指定访问的路径
+mp_pose = mp.solutions.pose
+
 app = Flask(
     __name__,
     static_folder="./static",
     static_url_path="/",
     template_folder="./static")
 
+# Error Handler
+@app.errorhandler(InvalidAPIError)
+def invalid_api_usage(e):
+    return jsonify(e.to_dict())
+
 @app.route('/')
 def index():
     '''
-        当在浏览器访问网址时，通过 render_template 方法渲染 dist 文件夹中的 index.html。
-        页面之间的跳转交给前端路由负责，后端不用再写大量的路由
+        When browser access this page, use render_template to render index.html
+        Router should be handled in front end
     '''
     return render_template("index.html")
 
-# API 接口示例，非功能
-@app.route('/accounts', methods=['GET'])
-def get_accounts():
+# 用户上传图片保存到静态服务目录，并返回给前端可以使用的url
+@app.route('/api/upload', methods=['POST', 'PUT'])
+def image_upload():
+    # get upload image and save
+    try:
+        root = request.url_root
+        image = request.files['file']
+        new_name = gen_uuid() + get_ext_name(image.filename)
+        save_file_path = get_save_path(new_name)
 
-    if request.method == "GET":
+        print('[File Path] ', save_file_path)
+        image.save(save_file_path)
+        
+        url = filepath2url(root, save_file_path)
+        print('[Http url] ', url)
+    except:
+        print("An exception occurred")
+        raise InvalidAPIError("upload error", status_code=1)
 
-        username = request.args.get("account")
-        password = "aaa" #query_account(username)
-        if password == "":
-            return "no result"
-        else:
-            #return render_template("home.html",message=username,password=password)
-            return jsonify({"password": password})
+    return jsonify({"url": url}) # http://localhost:5000/images/aaba390a-d1dd-47af-adc3-b2e0c6df2fde.jpg
 
+# Start analysis the image
+@app.route('/api/analyse', methods=['POST'])
+def image_analyse():
+    try:
+        data = request.json
+        url = data['url']
+        root = request.url_root
+
+        filepath = url2filepath(url)
+        
+        # Do pose estimation
+        keypoints_data, lm_image_path = yoga_pose.mediapipe(filepath)
+        lm_image_url = filepath2url(root, lm_image_path, subpath='/anno_images/')
+        
+        # Do the classification
+        pose_name = yoga_pose.predictPoseClass(keypoints_data)
+
+        # Get the standard pose
+        standard_filepath = yoga_pose.getStandardPose(pose_name)
+        standard_url = filepath2url(root, standard_filepath, subpath=os.path.join('/standard/', pose_name))
+        
+        # Do the scoring
+
+
+    except Exception as e:
+        print('Error: ', e)
+        raise InvalidAPIError("analyse error", status_code=2)
+
+    return jsonify({
+        "mediapipe_image": lm_image_url,
+        "keypoints": keypoints_data,
+        "pose_name": pose_name,
+        "score": 88,
+        "standar_pose": standard_url,
+    })
+    
 
 if __name__ == '__main__':
     app.run()
