@@ -1,12 +1,8 @@
 from flask import Flask, render_template, request, jsonify
-import mediapipe as mp
-import cv2
 import os
 from .utils import gen_uuid, get_ext_name, get_save_path, filepath2url, url2filepath
 from .error import InvalidAPIError
 from .api.YogaModel import yoga_pose
-
-mp_pose = mp.solutions.pose
 
 app = Flask(
     __name__,
@@ -70,7 +66,7 @@ def image_analyse():
         standard_url = filepath2url(root, standard_filepath, subpath=os.path.join('/standard/', pose_name))
         
         # Do the scoring
-
+        score = yoga_pose.evaluatePose(filepath, standard_filepath)
 
     except Exception as e:
         print('Error: ', e)
@@ -80,7 +76,7 @@ def image_analyse():
         "mediapipe_image": lm_image_url,
         "keypoints": keypoints_data,
         "pose_name": pose_name,
-        "score": 88,
+        "score": score,
         "standar_pose": standard_url,
     })
     
