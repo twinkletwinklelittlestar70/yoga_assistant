@@ -5,7 +5,7 @@
       <div class="pose-display student-pose">
         <span>Your pose</span>
         <img :src=result.mediapipeImage />
-        <span>Score: {{result.score}}</span>
+        <span>Score: {{(result.score * 100).toFixed(2)}}</span>
       </div>
       <div class="pose-display standard-pose">
         <span>Standard pose</span>
